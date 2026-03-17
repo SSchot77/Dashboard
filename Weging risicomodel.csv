@@ -1,0 +1,21 @@
+﻿Indicator;minimaal;midden;maximaal;Weging minimaal;Weging maximaal
+Begrotingsresultaat (structureel);0;5;7,5;<-0,5%;>=0%
+Begrotingsresultaat (structureel) t+1;0;1;2;<-0,5%;>=0%
+Begrotingsresultaat (structureel) t+2;0;1;2;<-0,5%;>=0%
+Begrotingsresultaat (structureel) t+3;0;5;7,5;<-0,5%;>=0%
+Resultaat jaarrekening (structureel) t-2;0;3;5;<-0,5%;>=0%
+Geraamde lasten Sociaal domein;0;0;5;Nee;Ja
+Aantal actuele beheerplannen (wegen (incl. kunstwerken, riol en gebouwen);0;2;3,5;1;3
+Achterstallig onderhoud;0;0;3,5;Nee;Ja
+Ramingen onderhoud overeenkomstig opgenomen;0;0;3,5;Nee;Ja
+Taakstelling/Ombuiingen/Bezuinigingen;0;5;7,5;>=1%;<0,5%
+Weestandsratio;0;3;7;<0,8;>1,4
+Risicobedrag / t.o.v  10% Gemeentefonds - OZB;0;3;5;>110%;<90%
+Surplus algemene reserve / totale lasten;0;3;5;<1%;>3%
+Schuldenquote;0;4;7,5;>130%;<90%
+Solvabiliteitsratio;0;2;7,5;<20%;>50%
+Onbenutte belastingcapaciteit / totale lasten;0;2;4;<1%;>3%
+% Grondexploitatie;0;3;5;<10%;>20%
+% Verbonden partijen;0;3;5;>20%;<10%
+Investeringsquote;0;5;7;<5%;<10%
+Totaal;0;50;100;;
